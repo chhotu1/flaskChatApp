@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47f5624a-1436-4a61-b3cc-e5e3ef2422db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/include/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/include/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New Text Document.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,11 +82,6 @@
             <path>
               <item name="flaskChatApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="flaskChatApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flaskChatApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flaskChatApp" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -128,12 +121,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14880952" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14880952" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.2405892" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.2405892" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
